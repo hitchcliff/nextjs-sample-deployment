@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  font-size: 1.25rem;
+}
+
+.container li {
+  list-style-type: none;
+  padding: 1rem;
+}
